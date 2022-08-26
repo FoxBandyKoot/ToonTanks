@@ -1,11 +1,14 @@
 # Visual Studio 2015 user specific files
 .vs/
+.vscode
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+Build
+Content/StarterContent
 
 # Precompiled Headers
 *.gch
